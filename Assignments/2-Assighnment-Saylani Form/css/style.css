@@ -1,0 +1,74 @@
+.ThankYou{
+    color:green;
+}
+
+.sub{
+    color: purple;
+} 
+
+h1{
+	text-align:center;
+}
+
+
+#tab{
+    padding-left: 25%;
+    background-color:plum;
+    width: 100%;
+    
+    /* padding-right: 25%; */
+    /* padding: 10px; */
+    /* position: relative; */
+    /* left: 20px; */
+    /* width: 0px;  */
+
+}
+
+#tail{
+    padding-left: 25%;
+    background-color:plum;
+    width: 100%;
+    /* padding-right: 25%; */
+}
+
+#head{
+    /* padding-left: 25%; */
+    /* background-color:plum; */
+    /* padding-right: 25%; */
+    /* padding: 10px; */
+    text-align: center;
+}
+
+#bod{
+    padding-left: 25%;
+    background-color:plum;
+    width: 100%;
+    border-spacing: 10px;
+
+}   
+
+#tab{
+    padding-left: 25%;
+    background-color:plum;
+    width: 100%;
+    
+
+
+}
+
+table {
+    background-color: plum;
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+    background-repeat: repeat;
+    border: 1px solid black;
+	
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 450px;
+}
